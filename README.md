@@ -23,7 +23,7 @@ To run this project, follow these steps:
 
 ### Heatmap of Confusion Matrix
 ### A heatmap visualization of the confusion matrix will also be generated for a more intuitive understanding of the model's performance.
-![heatmap](https://github.com/Tanya-Rawat/RainTomorrow-Prediction/assets/85443493/fb7b6f2a-13dc-4c79-9bfb-7f13875e93f8)
+![image](https://github.com/user-attachments/assets/1cf8b708-816e-4a28-943d-3c79eb5f2cda)
 
 ## Technologies Used
 - Python
